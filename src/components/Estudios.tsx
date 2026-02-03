@@ -1,7 +1,7 @@
 import EstudiosCard from "./EstudiosCard"
 function Estudios(){
     return(
-        <div className="container mx-auto bg-black/50 mt-10">
+        <div className="container mx-auto bg-black/75 mt-10">
             <div className="flex justify-start">
                 <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-white mb-4">
                    Estudios
