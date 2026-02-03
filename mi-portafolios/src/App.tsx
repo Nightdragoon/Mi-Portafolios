@@ -2,6 +2,7 @@ import HeroSection from './components/HeroSection'
 import QuienSoy  from './components/QuienSoy.tsx'
 import FaultyTerminal from './components/FaultyTerminal'
 import Experiencia  from './components/Experiensa.tsx'
+import Estudios from './components/Estudios.tsx'
 import './App.css'
 
 function App() {
@@ -35,6 +36,7 @@ function App() {
     
         <QuienSoy/>
         <Experiencia/>
+        <Estudios/>
        </div>
     </>
     
