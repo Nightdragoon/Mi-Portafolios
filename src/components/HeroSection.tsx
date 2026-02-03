@@ -1,5 +1,4 @@
 import TextType from "./TextType"
-import FaultyTerminal  from "./FaultyTerminal"
 function HeroSection() {
 
   return (
