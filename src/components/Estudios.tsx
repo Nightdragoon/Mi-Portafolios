@@ -11,12 +11,12 @@ function Estudios(){
                <EstudiosCard
                 titulo="Carrera tecnica"
                 descripcion="TÉCNICO COMO ESPECIALIZADO EN SISTEMAS COMPUTACIONALES, DISEÑO DE APLICACIONES WEB Y BASE DE DATOS"    
-                image="../public/tecnica.png"   
+                image="/tecnica.png"   
                />
                <EstudiosCard
                titulo="informatica"
                descripcion="estudiante informatica en mi 6to semestre"
-               image="../public/info.png"
+               image="/info.png"
                />
             </div>
 

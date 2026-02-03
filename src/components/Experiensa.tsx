@@ -3,7 +3,7 @@ import ChromaGrid from "./ChromaGrid"
 
 const items = [
   {
-    image: "../public/nasa.png",
+    image: "/nasa.png",
     title: "nasa space apps",
     subtitle: "hackathon nasa",
     handle: "@nasa space app",
@@ -12,7 +12,7 @@ const items = [
     url: "https://www.spaceappschallenge.org/2025/find-a-team/stem-fesc/"
   },
   {
-    image: "../public/gstnetwork.png",
+    image: "/gstnetwork.png",
     title: "GstNetwork",
     subtitle: "desarrollador 2025-2026",
     handle: "@gstnetwork",
@@ -21,7 +21,7 @@ const items = [
     url: "https://gstech.com.mx"
   },
    {
-    image: "../public/logoStem.png",
+    image: "logoStem.png",
     title: "Stem fesc",
     subtitle: "lider division de programacion",
     handle: "@stemfesc",
@@ -30,7 +30,7 @@ const items = [
     url: "https://www.spaceappschallenge.org/2025/find-a-team/stem-fesc/"
   },
   {
-     image: "../public/Mit.png",
+     image: "/Mit.png",
     title: "Mit Hacknation",
     subtitle: "hackathon mit ",
     handle: "@hacknation",
@@ -39,7 +39,7 @@ const items = [
     url: "https://gstech.com.mx"
   },
   {
-     image: "../public/ICPC.png",
+     image: "/ICPC.png",
     title: "ICPC 2025",
     subtitle: "participante del icpc",
     handle: "@icpcglobal",
@@ -48,7 +48,7 @@ const items = [
     url: "https://gstech.com.mx"
   },
   {
-    image: "../public/IEEE.png",
+    image:"/IEEE.png",
     title: "IEEXTREME",
     subtitle: "participante IEEXTREME",
     handle: "@ieee",

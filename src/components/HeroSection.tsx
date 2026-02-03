@@ -7,7 +7,7 @@ function HeroSection() {
         
         <div className="container mx-auto bg-black/50 rounded-full ">
             <div className="flex justify-center align-center">
-                 <img className="rounded-full w-50 h-50 m-5" src="../public/joaquin.jpeg"></img>
+                 <img className="rounded-full w-50 h-50 m-5" src="/joaquin.jpeg"></img>
             </div>
             <div className="flex justify-center align-center">
                <TextType 
