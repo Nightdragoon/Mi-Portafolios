@@ -1,16 +1,29 @@
-
-
+import TextType from "./TextType"
+import FaultyTerminal  from "./FaultyTerminal"
 function HeroSection() {
 
   return (
-    <div className="container mx-auto">
-        <div className="flex justify-center align-center">
-            <h1>hola</h1>
-        </div>
-        <div className="flex justify-center align-center">
-            <h1>Como estas</h1>
-        </div>
+    
+    <div>
+        
+        <div className="container mx-auto bg-black/50 rounded-full ">
+            <div className="flex justify-center align-center">
+                 <img className="rounded-full w-50 h-50 m-5" src="../public/joaquin.jpeg"></img>
+            </div>
+            <div className="flex justify-center align-center">
+               <TextType 
+                text={["Joaquin Emmanuel Amezcua Navarro","Desarrollador"]}
+                typingSpeed={75}
+                pauseDuration={1500}
+                showCursor
+                cursorCharacter="_"
+                deletingSpeed={50}
+                cursorBlinkDuration={0.5}
+                className="text-white font-mono text text-5xl"
+                />
+            </div>
 
+    </div>
     </div>
   )
 }

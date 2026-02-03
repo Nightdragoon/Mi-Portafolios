@@ -6,7 +6,6 @@ import "./main.css"
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
-    <NavbarMine/>
     <App />
   </StrictMode>,
 )
