@@ -7,7 +7,7 @@ function Estudios(){
                    Estudios
                 </h1>
             </div>
-            <div className="flex justify-center gap-5">
+            <div className="flex md:flex-row flex-col  justify-center items-center gap-5">
                <EstudiosCard
                 titulo="Carrera tecnica"
                 descripcion="TÉCNICO COMO ESPECIALIZADO EN SISTEMAS COMPUTACIONALES, DISEÑO DE APLICACIONES WEB Y BASE DE DATOS"    
