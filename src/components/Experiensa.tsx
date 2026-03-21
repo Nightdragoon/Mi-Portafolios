@@ -36,7 +36,7 @@ const items = [
     handle: "@hacknation",
     borderColor: "#570750",
     gradient: "linear-gradient(180deg, #88074e, #000)",
-    url: "https://gstech.com.mx"
+    url: "https://hack-nation.ai"
   },
   {
      image: "/ICPC.png",
@@ -45,7 +45,7 @@ const items = [
     handle: "@icpcglobal",
     borderColor: "#ffffff",
     gradient: "linear-gradient(180deg, #ffffff, #000)",
-    url: "https://gstech.com.mx"
+    url : "https://icpc.global"
   },
   {
     image:"/IEEE.png",
@@ -55,6 +55,46 @@ const items = [
     borderColor: "#f0aa12",
     gradient: "linear-gradient(145deg, #d6970e, #000)",
     url: "https://ieeextreme.org"
+  }, 
+  {
+    image: "/puentes_cosmo.jpg",
+    title:"Puentes al Cosmos",
+    subtitle: "podcast puentes al cosmos",
+    handle: "@puentesalcosmos",
+    borderColor : "#b300ff",
+    gradient: "linear-gradient(180deg, #b300ff, #000)",
+    url:"https://www.youtube.com/@AstronomiayComunidad"
+
+  },
+  {
+    image : "/nde_constancia.jpg",
+    title: "Noche de las Estrellas",
+    subtitle: "participante noche de las estrellas",
+    handle: "@nochedeestrellas",
+    borderColor: "#131212",
+    gradient: "linear-gradient(180deg, #131212, #000)",
+    url:"https://www.nochedelasestrellas.org.mx"
+
+  },
+  {
+    image: "/constancia_aa.jpg",
+    title: "Astroficos en accion" , 
+    subtitle: "curso astroficios en accion",
+    handle: "@astroficiosenaccion",
+    borderColor: "#d63f3f",
+    gradient: "linear-gradient(180deg, #d63f3f, #000)",
+
+
+  }, 
+  {
+    image: "/mvp_sprint.jpg" , 
+    title: "MVP Sprint",
+    subtitle: "participante mvp sprint",
+    handle: "@mvpsprint",
+    borderColor: "#0d80e6",
+    gradient: "linear-gradient(180deg, #0d80e6, #000)",
+    
+
   }
 ];
 
