@@ -95,6 +95,16 @@ const items = [
     gradient: "linear-gradient(180deg, #0d80e6, #000)",
     
 
+  },
+   {
+    image: "/certificado_hackathon.png" , 
+    title: "talent land hackathon",
+    subtitle: "participante talent land hackathon",
+    handle: "@talentlandhackathon",
+    borderColor: "#00ffbf",
+    gradient: "linear-gradient(180deg, #00ffbf, #000)",
+    
+
   }
 ];
 
